@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '46681'
     url: http://www.gutenberg.org/2009/agents/46681
     wikipedia: https://fi.wikipedia.org/wiki/Impi_Sirkka
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Undset, Sigrid
@@ -23,6 +26,8 @@ creator:
     - https://no.wikipedia.org/wiki/Sigrid_Undset
     - https://fi.wikipedia.org/wiki/Sigrid_Undset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75260#Olavinlapset
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
